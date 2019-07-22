@@ -1,4 +1,4 @@
 pribadi resolusi
 - Membuat Website 
 - Membuat Data Base 
-- Membuat forum diskusi
+- Membuat app warung
