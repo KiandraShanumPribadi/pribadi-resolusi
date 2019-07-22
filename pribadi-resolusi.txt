@@ -1,4 +1,5 @@
 pribadi resolusi
 - Membuat Website 
 - Membuat Data Base 
+- Membuat portfolio
 - Membuat app warung
